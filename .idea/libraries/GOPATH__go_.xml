@@ -1,0 +1,61 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/autotest" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/automation" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/code.google.com" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/test4linkedin" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/honnef.co" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/linkedin" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/gopkg.in" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/pkg" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/tools/oracle/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/tools/go/gcimporter/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/linkedin-inc/redis/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/golang/lint/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/tools/go/callgraph/rta/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/net/html/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/tools/cmd/vet/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/tools/cmd/callgraph/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/golang/protobuf/proto/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/tools/go/pointer/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/code.google.com/p/goprotobuf/proto/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/tools/go/ssa/ssautil/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/code.google.com/p/goauth2/.hg" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/remyoudompheng/go-liblzma/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/huichen/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/tools/go/gccgoimporter/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/BurntSushi/toml/_examples" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/golang/protobuf/protoc-gen-go/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/code.google.com/p/goprotobuf/protoc-gen-go/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/tools/cmd/cover/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/tools/cmd/stringer/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/remyoudompheng/go-misc/zipfs/testdata" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/mattn/go-colorable/_example" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/apcera/gnatsd/.git" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/kisielk/errcheck/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/linkedin-inc/protobuf/proto/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/davecgh/go-spew/spew/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/remyoudompheng/go-misc/pprof/report/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/alecthomas/template/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/tools/go/ssa/interp/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/tools/refactor/eg/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/PuerkitoBio/goquery/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/tools/go/callgraph/cha/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/tools/go/ssa/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/code.google.com/p/goprotobuf/.hg" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/tools/go/types/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/net/html/charset/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/remyoudompheng/go-misc/debug/ar/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/github.com/linkedin-inc/protobuf/protoc-gen-go/testdata" />
+      <root url="file://$USER_HOME$/work/code/chitu/go/src/golang.org/x/tools/go/loader/testdata" />
+    </excluded>
+  </library>
+</component>
