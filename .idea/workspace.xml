@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5b2287a-f230-48dc-983f-969661b8568c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/ArraySliceMap.go" afterPath="$PROJECT_DIR$/src/test/ArraySliceMap.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/go.iml" afterPath="$PROJECT_DIR$/.idea/go.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/goLibraries.xml" afterPath="$PROJECT_DIR$/.idea/goLibraries.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="b5b2287a-f230-48dc-983f-969661b8568c" name="Default" comment="" />
     <ignored path="go.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,13 +21,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="struct.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/struct.go">
+      <file leaf-file-name="method.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/method.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35326087">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.8505435">
+              <caret line="119" column="19" selection-start-line="119" selection-start-column="12" selection-end-line="119" selection-end-column="19" />
               <folding>
-                <element signature="e#14#26#0" expanded="true" />
+                <element signature="e#13#25#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,6 +63,7 @@
         <option value="$PROJECT_DIR$/src/test/defer.go" />
         <option value="$PROJECT_DIR$/src/test/function.go" />
         <option value="$PROJECT_DIR$/src/test/struct.go" />
+        <option value="$PROJECT_DIR$/src/test/method.go" />
       </list>
     </option>
   </component>
@@ -579,6 +574,16 @@
           <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/method.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8505435">
+          <caret line="119" column="19" selection-start-line="119" selection-start-column="12" selection-end-line="119" selection-end-column="19" />
+          <folding>
+            <element signature="e#13#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
