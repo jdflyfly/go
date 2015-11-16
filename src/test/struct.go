@@ -3,7 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	testStruct()
+	//testStruct()
+	testStructEqual()
 }
 
 type Skills []string
@@ -42,4 +43,29 @@ func testStruct() {
 	// 修改匿名内置类型字段
 	jane.int = 3
 	fmt.Println("Her preferred number is", jane.int)
+}
+
+/**
+Struct values are comparable if all their fields are comparable. Two
+    struct values are equal if their corresponding non-blank
+    <http://golang.org/ref/spec#Blank_identifier> fields are equal.
+ */
+
+type Obj struct {
+	i int
+	s string
+	_ int //blank identifier
+}
+
+
+func testStructEqual() {
+	obj1 := Obj{i:1, s:"s"}
+	obj2 := Obj{i:1, s:"s"}
+	p1 := &obj1
+	p2 := &obj2
+
+	fmt.Printf("obj1:%v,obj2:%v,obj1==obj2?%v\n", obj1, obj2, obj1==obj2)
+	fmt.Printf("p1:%v,p2:%v,p1==p2?%v\n", p1, p2, p1==p2)
+
+
 }

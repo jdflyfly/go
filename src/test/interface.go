@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 type Human struct {
 	name  string
@@ -75,7 +77,19 @@ func testPolymorphism() {
 	}
 }
 
-func main() {
-	testPolymorphism()
+func testTypeCast() {
+	person := Human{"jack", 12, "h132123"}
+	var a interface{}
+	a = person
+	switch a.(type){
+	}
+	var mike interface{} = Student{Human{"Mike", 25, "222-222-XXX"}, "MIT", 0.00}
+	fmt.Println(person, mike)
+	fmt.Printf("%T\n", person)
 
+}
+
+func main() {
+	//testPolymorphism()
+	testTypeCast()
 }

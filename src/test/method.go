@@ -96,7 +96,7 @@ type Human struct {
 }
 
 type Student struct {
-	Human //匿名字段
+	Human/匿名字段
 	school string
 }
 
